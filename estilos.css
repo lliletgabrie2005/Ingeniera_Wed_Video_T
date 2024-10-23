@@ -1,0 +1,118 @@
+
+.rect{
+    width: 100%;
+    height: 20px;
+    opacity: 0;
+}
+.title{
+    text-align: center;
+    margin-top: -105px;
+    font-family:Arial, Helvetica, sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+}
+.rect_2{
+    background-color: #004170;
+    width: 100%;
+    height: 170px;
+    margin-top: -150px;
+}
+.img2{
+    position: relative;
+    width: 100%;
+    height: 700px;
+    z-index: -1;
+    margin-top: 30px;
+}
+:root{
+    background-color: #363434;
+}
+.rect_3{
+    background-color: #E2EFF9C9;
+    width: 40%;
+    height: 700px;
+    margin-top: -703px;
+    margin-left: 0px;
+}
+#re_4{
+    position: relative;
+    background-color: #000000;
+    left: 970px;
+    width: 25%;
+    height: 550px;
+    border-radius: 15px;
+    opacity: 0.8;
+    border: 2px solid rgb(255, 255, 255);
+    top: -160px;
+}
+
+.img3{
+    position: relative;
+    width: 150px;
+    height: 150px;
+    top: -550px;
+    left: 1100px;
+    z-index: 100;
+}
+.div_1{
+    position: relative;
+    left: 1050px;
+    top: -500px;
+    z-index: 100;
+}
+.e1_input{
+    width: 250px;
+    height: 45px;
+    border-radius: 10px;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    border: 4px solid #ffffff;
+}
+
+.e1_boton{
+    position: relative;
+    width: 250px;
+    height: 45px;
+    border-radius: 10px;
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    top: 90px;
+    left: -260px;
+    cursor: pointer;
+    transition: transform 0.4s ease;
+}
+
+button:active {
+    transform: scale(0.7); 
+}
+
+#text_2{
+    position: relative;
+    color:#212224;
+    font-weight: 600;
+    font-size: 30px;
+    top: -800px;
+    left:-540px ;
+}
+#text_3{
+    position: relative;
+    font-size: 35px;
+    left: 350px;  
+    top: -760px;
+    z-index: 100;
+}
+.manual{
+    position: relative;
+    top: -20px;
+}
+
+.title_2{
+    margin-top: -105px;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+}
+
+
+
